@@ -145,8 +145,6 @@ class CrystalCollectorGame {
         console.log("totalGames:" + this.totalGames);
         console.log("nbrWins:" + this.nbrWins);
         console.log("nbrLosses:" + this.nbrLosses);
-
-
         console.log("gameInProgress:" + this.gameInProgress);
         console.log("currentNbrToGuess:" + this.currentNbrToGuess);
         console.log("currentGuess:" + this.currentGuess);
